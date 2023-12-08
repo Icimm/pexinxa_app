@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgba(0, 61, 100, 1);
+}
+
+.main {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: rgba(242, 242, 242, 1);
+    border-radius: 50px;
+    height: 600px;
+    width: 600px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+
+}
+
+.linha1 {
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    justify-content: center;
+
+}
+
+h2 {
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.btn1 {
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: rgba(0, 116, 156, 1);
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.box1 {
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.box2 {
+    padding: 10px 40px 40px 40px;
+    border-radius: 5px;
+}
+
+input {
+    width: 500px;
+    height: 30px;
+}
+
+.enter {
+    padding: 10px 40px 0 40px;
+}
+
+.btn2 {
+    background-color: rgba(0, 116, 156, 1);
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.forgot {
+    padding-top: 20px;
+    text-align: end;
+    text-decoration: underline;
+    color: rgba(0, 0, 0, 0.415);
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 7%;
+    padding-right: 10%;
+
+}
+
+.mainLogo {
+    width: 189px;
+    height: 211px;
+}
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+    .container {
+        height: 100%;
+        width: 100%;
+        display: block;
+        
+    }
+    
+}
+

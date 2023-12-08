@@ -1,0 +1,25 @@
+/*ulgumas coisas que estavam conflitando com os arquivos css do pexinxa*/
+body{
+    line-height: 1.2;
+}
+
+img{
+     vertical-align:unset;
+}
+
+dl, ol, ul {
+    margin-top: 15px;
+    margin-bottom: 1rem;
+}
+
+/*deixando as flexas do carrossel com cor*/
+.carousel-control-next {
+    filter: invert(1);
+}
+
+.carousel-control-prev {
+    filter: invert(1);
+}
+
+
+
