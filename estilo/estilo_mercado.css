@@ -15,6 +15,54 @@
     align-items: center;
 }
 
-img#logo_mercado{
+img#logo_mercado1{
     width: 120px;
+}
+
+img#logo_mercado2{
+    width: 120px;
+}
+
+img#logo_mercado3{
+    width: 120px;
+}
+
+img#logo_mercado4{
+    width: 120px;
+}
+
+img#logo_mercado5{
+    width: 120px;
+}
+
+img#logo_mercado1:hover {
+    transform: scale(1.20,1.20);
+    transition: 0.5s;
+    
+}
+
+img#logo_mercado2:hover {
+    transform: scale(1.20,1.20);
+    transition: 0.5s;
+    
+    
+}
+
+img#logo_mercado3:hover {
+    transform: scale(1.20,1.20);
+    transition: 0.5s;
+    
+    
+}
+
+img#logo_mercado4:hover {
+    transform: scale(1.20,1.20);
+    transition: 0.5s;
+    
+}
+
+img#logo_mercado5:hover {
+    transform: scale(1.20,1.20);
+    transition: 0.5s;
+    
 }

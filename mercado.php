@@ -57,15 +57,15 @@
         <container>
 
             <div class="navbar_mercados">
-                <a href="#" onclick="showContent('content1')" style="background-color:#a6a6a6;"><img id="logo_mercado" src="imagens/amarelao.png"></a>
+                <a href="#" onclick="showContent('content1')" style="background-color:#a6a6a6;"><img id="logo_mercado1" src="imagens/amarelao.png"></a>
 
-                <a href="#" onclick="showContent('content2')" style="background-color:#F1BE73;"><img id="logo_mercado" src="imagens/assala.png"></a>
+                <a href="#" onclick="showContent('content2')" style="background-color:#F1BE73;"><img id="logo_mercado2" src="imagens/assala.png"></a>
 
-                <a href="#" onclick="showContent('content3')" style="background-color:#42903A;"><img id="logo_mercado" src="imagens/paodesal.png" ></a>
+                <a href="#" onclick="showContent('content3')" style="background-color:#42903A;"><img id="logo_mercado3" src="imagens/paodesal.png" ></a>
 
-                <a href="#" onclick="showContent('content4')" style="background-color:#14317C;"><img id="logo_mercado" src="imagens/barraca.png"></a>
+                <a href="#" onclick="showContent('content4')" style="background-color:#14317C;"><img id="logo_mercado4" src="imagens/barraca.png"></a>
 
-                <a href="#" onclick="showContent('content5')" style="background-color:#EDC536;"><img id="logo_mercado" src="imagens/sonia.png"></a>
+                <a href="#" onclick="showContent('content5')" style="background-color:#EDC536;"><img id="logo_mercado5" src="imagens/sonia.png"></a>
             </div>
 
 
